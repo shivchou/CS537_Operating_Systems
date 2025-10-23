@@ -1,0 +1,12 @@
+XV6_TEST: scheduler : STCF
+XV6_TEST: parent start
+XV6_TEST: pid 8 started
+XV6_TEST: pid 8 finished
+XV6_TEST: pid 7 started
+XV6_TEST: pid 7 finished
+XV6_TEST: pid 4 started
+XV6_TEST: pid 4 finished
+XV6_TEST: pid 5 started
+XV6_TEST: pid 5 finished
+XV6_TEST: pid 6 started
+XV6_TEST: pid 6 finished

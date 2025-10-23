@@ -1,0 +1,2 @@
+XV6_TEST_OUTPUT before making directory and changing to it.
+XV6_TEST_OUTPUT getcwd returned foobar with return value of 0.

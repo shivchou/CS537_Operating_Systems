@@ -1,0 +1,1 @@
+cp tests/trap.c tests/trapasm.S tests/ulib.c tests/work.c ../solution

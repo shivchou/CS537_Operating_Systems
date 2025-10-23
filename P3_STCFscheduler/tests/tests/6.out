@@ -1,0 +1,8 @@
+XV6_TEST: scheduler : STCF
+XV6_TEST: parent start
+XV6_TEST: proc 0 start
+XV6_TEST: proc 2 start
+XV6_TEST: proc 2 end
+XV6_TEST: proc 0 end
+XV6_TEST: proc 1 start
+XV6_TEST: proc 1 end

@@ -1,0 +1,5 @@
+XV6_TEST: scheduler : STCF
+XV6_TEST: workload 1 started
+XV6_TEST: workload 1 fin
+XV6_TEST: pid 4 started
+XV6_TEST: pid 4 finished

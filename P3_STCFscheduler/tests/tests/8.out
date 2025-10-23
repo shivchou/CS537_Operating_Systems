@@ -1,0 +1,5 @@
+XV6_TEST: scheduler : STCF
+XV6_TEST: give_cpu() test started
+XV6_TEST: before give_cpu
+XV6_TEST: after give_cpu
+XV6_TEST: give_cpu() test finished

@@ -1,0 +1,3 @@
+XV6_TEST_OUTPUT Before calling getcwd.
+XV6_TEST_OUTPUT getcwd returned  with return value of -1 for size of 0.
+XV6_TEST_OUTPUT getcwd returned  with return value of -1 for size of -1.

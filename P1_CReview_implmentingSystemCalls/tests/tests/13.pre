@@ -1,0 +1,7 @@
+./edit-makefile.sh ../solution/part2/Makefile > ../solution/part2/Makefile.test
+cd ../solution/part2/
+make clean
+make -f Makefile.test clean
+make -f Makefile.test xv6.img
+make -f Makefile.test fs.img
+cd ../../tests

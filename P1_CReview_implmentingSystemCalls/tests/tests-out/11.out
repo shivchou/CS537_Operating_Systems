@@ -1,0 +1,2 @@
+XV6_TEST_OUTPUT Before calling getcwd.
+XV6_TEST_OUTPUT getcwd returned (null) with return value of -1.

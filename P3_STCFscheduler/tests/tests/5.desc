@@ -1,0 +1,1 @@
+give_cpu test: ensure give_cpu allows other runnable process to run under STCF.
