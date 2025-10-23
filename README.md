@@ -7,4 +7,4 @@ P2 (94/100): WSH: Build a Shell (implement built-ins, handle externals + pipes, 
 
 P3 (100/100): STCF scheduler: replace xv6's Round Robin scheduler with my implementation of the Shortest-Time-to-Completion-First scheduler algorithm
 
-to use: git clone repo into docker, make, (make qemu-nox for P1 part 2, make SCHEDULER=STCF qemu-nox for P3), run tests by switching into tests directory and running ./run-tests.sh
+to use: git clone repo into Docker, make, (make qemu-nox for P1 part 2, make SCHEDULER=STCF qemu-nox for P3), run tests by switching into tests directory and running ./run-tests.sh
