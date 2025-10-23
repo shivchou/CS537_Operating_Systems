@@ -1,5 +1,5 @@
 # CS537_Operating_Systems
-projects done in Operating Systems in fall 2025:
+projects done in CS537: Operating Systems in Fall 2025 at UW-Madison:
 
 P1: C Review + Implementing System Calls (user and kernel side) in xv6
 
