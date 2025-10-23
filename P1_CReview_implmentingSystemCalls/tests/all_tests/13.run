@@ -1,0 +1,1 @@
+cd ../solution/part2; ../../tests/run-xv6-command.exp CPUS=4 Makefile.test pwd | grep -E '^/'; cd ../../tests

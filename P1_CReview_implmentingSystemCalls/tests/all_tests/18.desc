@@ -1,0 +1,1 @@
+PART 2: Attempt change to a directory which does not exist, and call getcwd.

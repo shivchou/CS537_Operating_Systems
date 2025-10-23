@@ -1,0 +1,3 @@
+XV6_TEST_OUTPUT before changing directory.
+XV6_TEST_OUTPUT chdir("doesnotexist") failed as expected.
+XV6_TEST_OUTPUT getcwd returned / with return value of 0.

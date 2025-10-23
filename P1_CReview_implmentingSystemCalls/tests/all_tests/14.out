@@ -1,0 +1,6 @@
+XV6_TEST_OUTPUT Before forking.
+XV6_TEST_OUTPUT getcwd in child returned foobar with return value of 0.
+XV6_TEST_OUTPUT getcwd in child returned blah with return value of 0.
+XV6_TEST_OUTPUT Parent waited for child.
+XV6_TEST_OUTPUT getcwd in parent returned foobar with return value of 0.
+XV6_TEST_OUTPUT getcwd in parent returned .. with return value of 0.
