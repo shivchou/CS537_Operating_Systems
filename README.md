@@ -1,10 +1,10 @@
 # CS537_Operating_Systems
 projects done in CS537: Operating Systems in Fall 2025 at UW-Madison:
 
-P1 (100/100): C Review + Implementing System Calls (user and kernel side) in xv6
+P1: C Review + Implementing System Calls (user and kernel side) in xv6
 
-P2 (94/100): WSH: Build a Shell (implement built-ins, handle externals + pipes, full integration)
+P2: WSH: Build a Shell (implement built-ins, handle externals + pipes, full integration)
 
-P3 (100/100): STCF scheduler: replace xv6's Round Robin scheduler with my implementation of the Shortest-Time-to-Completion-First scheduler algorithm
+P3: STCF scheduler: replace xv6's Round Robin scheduler with implementation of the Shortest-Time-to-Completion-First scheduling algorithm
 
-to use: git clone repo into Docker, make, (make qemu-nox for P1 part 2, make SCHEDULER=STCF qemu-nox for P3), run tests by switching into tests directory and running ./run-tests.sh
+
