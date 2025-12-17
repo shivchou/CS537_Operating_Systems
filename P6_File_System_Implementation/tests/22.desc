@@ -1,0 +1,1 @@
+xattr user.color set/get/remove works and ctime updates appropriately

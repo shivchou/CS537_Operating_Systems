@@ -1,0 +1,2 @@
+XV6_TEST: IO Mapping size is not aligned to 4KB!
+XV6_TEST: MMIO fails!

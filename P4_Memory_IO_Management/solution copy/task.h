@@ -1,0 +1,2 @@
+uint dpu_hash(volatile uint* dpu_ctrl, uint x, uint key, uint poll_paddr, volatile uint* poll_vaddr);
+uint dpu_vector(volatile uint* dpu_ctrl, uint length, uint addr1, uint addr2, uint poll_paddr, volatile uint* poll_vaddr);
